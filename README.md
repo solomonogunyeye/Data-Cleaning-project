@@ -111,11 +111,11 @@ This project focuses on resolving temporal inconsistencies and text formatting i
 |----------------|----------------|
 | 
 
-![Before](images/project2_before.png)
+![Before](Images/project2_before.png)
 
  | 
 
-![After](images/project2_after.png)
+![After](Images/project2_after.png)
 
  |
 | Mixed date formats (MDY/DMY/ISO), inconsistent casing | Standardized MDY dates, proper case text |
@@ -167,11 +167,11 @@ This project involves transforming an unstructured plain-text file with inconsis
 |----------------|----------------|
 | 
 
-![Before](images/project3_before.png)
+![Before](Images/project3_before.png)
 
  | 
 
-![After](images/project3_after.png)
+![After](Images/project3_after.png)
 
  |
 | Unstructured raw text with irregular delimiters | Structured 7-column table with proper headers |
