@@ -8,10 +8,10 @@ This repository showcases practical data cleaning workflows across three real-wo
 
 # Project 1: Large-Scale Dataset Standardization
 
-This project involves cleaning a high-volume dataset containing 9,000+ transactional records with widespread formatting inconsistencies, data type errors, and structural irregularities. The goal is to standardize all fields while maintaining 100% record accuracy, creating a foundation for reliable downstream processing.
+This project involves cleaning a high-volume dataset containing 8,500+ records of Netflix material with widespread formatting inconsistencies, data type errors, and structural irregularities. The goal is to standardize all fields while maintaining 100% record accuracy, creating a foundation for reliable downstream processing.
 
 ## Objectives
-1. Eliminate formatting inconsistencies across 9,000+ rows
+1. Eliminate formatting inconsistencies across 8500+ rows
 2. Enforce correct data types for all columns
 3. Remove unwanted symbols and hidden characters
 4. Create clean dataset with uniform structure
@@ -19,9 +19,9 @@ This project involves cleaning a high-volume dataset containing 9,000+ transacti
 ## Dataset
 | Detail | Info |
 |---|---|
-| **Source** | Internal business records |
-| **Scope** | Multi-category transactional data |
-| **Size** | 9,000+ rows · 12 columns |
+| **Source** | Kaggle |
+| **Scope** | Multi-category Netflix material data|
+| **Size** | 8500+ rows · 12 columns |
 | **Key Issues** | Mixed data types, irregular spacing, symbol contamination |
 
 ## Data Cleaning and Preprocessing
@@ -34,7 +34,7 @@ This project involves cleaning a high-volume dataset containing 9,000+ transacti
 7. Standardized text casing across categorical fields
 
 ## Cleaning Results
-- **Records processed:** 9,000+
+- **Records processed:** 8500+
 - **Data type corrections:** 100% of numeric fields standardized
 - **Text normalization:** All categorical columns cleaned
 - **Formatting consistency:** 100%
@@ -74,7 +74,7 @@ This project focuses on resolving temporal inconsistencies and text formatting i
 ## Dataset
 | Detail | Info |
 |---|---|
-| **Source** | CSV export from CRM system |
+| **Source** | CSV export from data cleaning competition|
 | **Scope** | Customer transaction records |
 | **Key Issues** | Mixed date formats, inconsistent text casing |
 | **Key Columns** | Transaction Date, Customer Name, Product Category |
@@ -82,15 +82,18 @@ This project focuses on resolving temporal inconsistencies and text formatting i
 ## Data Cleaning and Preprocessing
 1. Verified zero duplicate records
 2. Detected three different date format patterns (MDY, DMY, YYYY-MM-DD)
-3. Manually corrected 18 invalid date entries
-4. Converted all dates to Excel native format
-5. Applied `PROPER()` function to standardize customer names
-6. Removed extraneous spaces from all text fields
-7. Validated date ranges against business operational period
+3. Identified the correct format to be used
+4. Manually corrected 5+ invalid date entries
+5. Converted all dates to Excel native format
+6. Placed misplaced values in their correct columns 
+7. Applied `PROPER()` function to standardize customer names
+8. Removed extraneous spaces from all text fields
+9. Validated date ranges against business operational period
 
 ## Cleaning Results
-- **Invalid dates corrected:** 18 entries
+- **Invalid dates corrected:** 5+ entries
 - **Date format consistency:** 100%
+- **Row consistency:** 100%
 - **Text standardization:** All categorical fields normalized
 
 ## Key Outcomes
@@ -128,7 +131,7 @@ This project involves transforming an unstructured plain-text file with inconsis
 ## Dataset
 | Detail | Info |
 |---|---|
-| **Source** | Legacy system export |
+| **Source** | txt export from data cleaning competition|
 | **Format** | Raw .txt file |
 | **Size** | Variable row structure |
 | **Key Issues** | Multiple delimiters (pipes, tabs, spaces), no headers, misaligned fields |
@@ -144,7 +147,7 @@ This project involves transforming an unstructured plain-text file with inconsis
 8. Validated final structure against source data samples
 
 ## Cleaning Results
-- **Structure:** Unstructured text → 8-column table
+- **Structure:** Unstructured text → 7-column table
 - **Delimiter standardization:** 100%
 - **Field alignment corrections:** 23 manual adjustments
 - **Schema completeness:** Full header assignment
@@ -167,7 +170,7 @@ This project involves transforming an unstructured plain-text file with inconsis
 ![After](images/project3_after.png)
 
  |
-| Unstructured raw text with irregular delimiters | Structured 8-column table with proper headers |
+| Unstructured raw text with irregular delimiters | Structured 7-column table with proper headers |
 
 ---
 
@@ -192,7 +195,7 @@ This project involves transforming an unstructured plain-text file with inconsis
 
 | Skill Category | Specific Competencies |
 |----------------|----------------------|
-| **Scale** | Processing 9,000+ rows with formula-driven automation |
+| **Scale** | Processing 8,500+ rows with formula-driven automation |
 | **Data Types** | Text/number/date validation and enforcement |
 | **Normalization** | Date format standardization, text casing consistency |
 | **Transformation** | Unstructured-to-structured data conversion via Power Query |
@@ -215,4 +218,3 @@ This project involves transforming an unstructured plain-text file with inconsis
 
 ---
 
-# Repository Structure
