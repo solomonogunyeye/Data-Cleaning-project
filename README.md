@@ -56,6 +56,10 @@ This project involves cleaning a high-volume dataset containing 8,500+ records o
 
 ![After](images/project1_after.png)
 
+| 
+
+![After](images/project1_after2.png)
+
  |
 | Inconsistent spacing, mixed symbols, irregular formatting | Uniform structure, clean standardized fields |
 
