@@ -1,0 +1,100 @@
+john doe,New York,USA,2023-01-15,15000,5,completed
+Jane Smith | Los Angeles | USA | 01/02/2023 | blank |  3 | Pending
+Ahmed Hassan;Chicago;USA;01-20-2023;25000;2;completed
+john doe  New York   USA  2023-01-15  15000  5  completed
+Fatima Johnson,Denver,USA,02-01-2023,(8500),NA,Processing
+Tunde Williams; Houston, USA; 2023-01-25; 3200; 1; Completed
+Chioma Brown|Phoenix,USA|01/25/2023|12000|4|pending
+KwameDavis Dallas USA 2023-01-28 5000.50 2.5 completed
+Blessing Garcia, New York, USA 2023-02-01 18000,6,completed
+Amara Martinez;Austin USA;02/02/2023;Unknown;8;Processing
+Grace Thompson, Jacksonville, USA, 2023-02-05, 22000, 5, completed
+Samuel Wilson|New York|USA|2023-02-08|9500|3|pending
+Zainab Anderson  San Antonio  USA  02-08-2023  14000  2  Completed
+Chioma Brown,Phoenix USA,01/25/2023,12000,4,pending
+Onyeka Taylor;San Diego;USA;2023/02/15;31000;10;completed
+Linda Moore | San Jose | USA | 2023-02-18 | 2100 | 5 | Processing
+Kofi Jackson,Fort Worth USA,02/18/2023,7500,,completed
+Folake White;DALLAS;USA;2023-02-22;19500;7;pending
+Yaw Harris|Houston|USA|2023/02/25|NA|3|Completed
+Amina Clark Dallas USA 02-25-2023 26000 9 processing
+Victor Lewis, Austin, USA, 2023-03-01, 11000, 4, completed
+Abigail Lee|Fresno,USA|2023-03-05|15750|6|Pending
+EmekaMiller;Denver;USA;03/05/2023;13200;2;completed
+Aisha Hall,Houston USA,2023/03/10,8900,3,Processing
+Kwadwo Allen; Memphis; USA; 2023-03-12; 22500; 5; completed
+Ngozi Young|Seattle USA|03-12-2023||11|completed
+KofiKing Las Vegas USA 2023-03-18 9200 00004 pending
+Chinedu Wright,Phoenix,USA,2023/03/20,16800,5,Completed
+Abena Lopez;Denver;USA;2023-03-25;12000;2;completed
+Adetokunbo Hill, Austin, USA, 03/25/2023, 29000, 12, Processing
+Ifeanyi Scott|Kansas City|USA|2023-03-28|3500|4|pending
+Akosua Green,Mesa USA,2023/04/01,17500,6,Completed
+Folake Miller;denver;usa;04-01-2023;19500;7;completed
+Yaw Rodriguez | San Diego | USA | 2023-04-05 | 8200 | 2.0 | Processing
+Amara Taylor,Chicago USA,2023/04/08,14000,5,completed
+Deola Anderson;San Francisco;USA;04-08-2023;25000;;pending
+Efua Thomas|Boston|USA|2023-04-12|5600|2|Completed
+Chidi Jackson,Las Vegas USA,2023-04-15,11200,4,completed
+Afia White Atlanta USA 04/15/2023 18600 00006 processing
+Chisom Harris;Baltimore;USA;2023/04/18;13500;3;Pending
+Kwesi Martin|Louisville|USA|2023-04-20|9800|2|Completed
+Isioma Lewis,Portland USA,04-20-2023,,8,completed
+Tunde Clark;Portland;USA;2023/04/25;15200;5;Processing
+Akosua Garcia|Albuquerque|USA|2023-04-28|28000|10|completed
+Benjamin Young,Tampa USA,04/28/2023,7600,3,pending
+Grace Martinez; Denver; USA; 2023-05-01; 4300; 1; Completed
+Samson Jones|New York USA|2023/05/05|19400|6|completed
+Ama Wilson,Sacramento USA,05-05-2023,12100,4,Processing
+Chukwu Davis;Kansas City;USA;2023-05-10;24500;00008;completed
+Abena Brown|Denver|USA|2023/05/12|10200|3|pending
+Victor Hall, Phoenix, USA, 05-12-2023, 5500, 2, Completed
+Zara Thompson;Austin USA;2023-05-18;NA;7;completed
+Emeka Garcia,San Francisco USA,2023/05/20,16700,5,Processing
+LenaClark|Las Vegas USA|05-20-2023||,|pending
+Chinedu Young;Denver;USA;2023-05-25;21500;6;Completed
+Nadia Harris|Portland|USA|2023/05/28|9300|4|completed
+Adebayo Wilson,Portland USA,05-28-2023,2800,1,Processing
+Kwame Martinez; Boston; USA; 2023-06-01; 15200; 5; completed
+Isioma Garcia|Denver USA|06/01/2023|Unknown|3|pending
+Folake Johnson,Chicago USA,2023/06/05,13400,2,Completed
+AdomakoClark Phoenix USA 2023-06-08 27000 00009 completed
+Chinedu Lewis;Denver;USA;06-08-2023;19800;6;Processing
+Zainab Davis|Memphis|USA|2023/06/12|8700|2|completed
+Emeka Williams,Las Vegas USA,2023-06-15,6400,4,pending
+Grace Brown; Austin; USA; 06/15/2023; 11500; 3; Completed
+Tunde Garcia|San Diego|USA|2023/06/20|22000|7|completed
+Amina Young,Houston USA,2023-06-22,16300,5,Processing
+Kwesi Miller;Kansas City;USA;06-22-2023;;8;completed
+Folake Martin|DENVER|USA|2023-06-25|19500|7|pending
+Yaw Davis, Denver, USA, 2023/06/28, 12800, 2, Completed
+Chukwu White;Seattle;USA;2023-07-01;3200;1;completed
+Abena Lee|Denver|USA|07/01/2023|9100|3|Processing
+Emeka Harris,Portland USA,2023/07/05,25000,6,completed
+Lena Wilson;Atlanta;USA;2023-07-08;;,|pending
+ChiomaYoung Dallas USA 07-08-2023 18900 00005 Completed
+Kwame Brown|Memphis|USA|2023/07/12|10500|4|completed
+Adetokunbo Thompson,New York USA,2023-07-15,NA,2,Processing
+Nadia Garcia; Las Vegas; USA; 07/15/2023; 7800; 3; completed
+Chinedu Hall|Denver|USA|2023/07/20|20100|6|pending
+Zara Lewis,Phoenix USA,2023-07-22,5100,2,Completed
+Samson Clark;Kansas City;USA;07-22-2023;13600;5;completed
+Grace Young|San Antonio|USA|2023/07/25|Unknown|4|Processing
+Emeka Davis,Atlanta USA,2023-07-28,15200,3,completed
+Folake Moore; Las Vegas; USA; 07-28-2023; ; 7; pending
+Kwamena Jackson|Portland|USA|2023/08/01|11200|2|Completed
+Adomako Rodriguez,Phoenix USA,2023-08-03,26500,00008,completed
+Chioma Williams;Denver;USA;08-03-2023;4700;5;Processing
+Lena Martinez|Chicago|USA|2023/08/08|19100|3|completed
+Chinedu Thompson,Austin USA,2023-08-10,17200,4,pending
+Zainab Garcia;San Diego;USA;08/10/2023;9800;2;Completed
+Emeka Jones|Denver|USA|2023/08/15|22400|6|completed
+Grace Miller,Tampa USA,2023-08-18,3500,1,Processing
+Tunde White; Houston; USA; 08-18-2023; 12500; 4; completed
+Adetokunbo Harris|Boston|USA|2023/08/22|Unknown|5|pending
+KwesiGarcia Denver USA 2023-08-25 18900 00003 Completed
+Abena Wilson,Denver USA,08/25/2023,,6,completed
+Chinedu Davis;Philadelphia;USA;2023/08/28;24100;3;Processing
+Zara Young | Denver | USA | 2023-08-30 | 6200 | 2 | completed
+Samson Brown,Austin USA,08-30-2023,11700,4,pending
+Emeka Miller; San Antonio; USA; 2023/09/02; 15600; 00007; Completed
